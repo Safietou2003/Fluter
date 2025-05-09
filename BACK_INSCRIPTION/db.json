@@ -1,0 +1,44 @@
+{
+  "inscriptions": [
+    {
+      "id": 1,
+      "nom": "Seph",
+      "prenom": "Diop",
+      "classe": "L1 MAE",
+      "matricule": "MAT001",
+      "email": "s@gmail.com"
+    },
+    {
+      "id": 2,
+      "nom": "Flan",
+      "prenom": "Cisse",
+      "classe": "L2 INFO",
+      "matricule": "MAT002",
+      "email": "f@gmail.com"
+    },
+    {
+      "id": 3,
+      "nom": "Libbie",
+      "prenom": "Luffy",
+      "classe": "L1 MIAGE",
+      "matricule": "MAT003",
+      "email": "l@gmail.com"
+    },
+    {
+      "id": 4,
+      "nom": "Sophie",
+      "prenom": "Ndiaye",
+      "classe": "L3 MIAGE",
+      "matricule": "MAT004",
+      "email": "so@gmail.com"
+    },
+    {
+      "id": 5,
+      "nom": "Robert",
+      "prenom": "eren",
+      "classe": "L2 INFO",
+      "matricule": "MAT005",
+      "email": "r@gmail.com"
+    }
+  ]
+}

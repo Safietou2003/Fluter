@@ -1,0 +1,15 @@
+GET http://localhost:3000/inscriptions
+Accept: application/json
+
+###
+
+GET http://localhost:3000/inscriptions?classe=L1 MAE
+Accept: application/json
+###
+
+GET http://localhost:3000/inscriptions?classe=L3 MIAGE
+Accept: application/json
+###
+
+GET http://localhost:3000/inscriptions?classe=L2 INFO
+Accept: application/json
