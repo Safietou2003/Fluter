@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/inscription.dart';
 
 class ApiService {
-  static const String _baseUrl = 'http://localhost:3000';
+  static const String _baseUrl = 'http://10.0.2.2:3000';
 
   final Map<String, String> _headers = {
     'Accept': 'application/json',
